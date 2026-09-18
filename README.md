@@ -20,20 +20,14 @@
 - 優待利回りのグラフ表示
 
  アプリ画面
+![アプリ画面3](screenshot3.png.png)
+![アプリ画面2](screenshot2.png.png)
 ![アプリ画面1](screenshot1.png.png)
 
-![アプリ画面2](screenshot2.png.png)
-
-![アプリ画面3](screenshot3.png.png)
 
 
 
  使用技術
-![アプリ画面1](screenshot1.png.png)
-
-![アプリ画面2](screenshot2.png.png)
-
-![アプリ画面3](screenshot3.png.png)
 - Python
 - Pandas
 - Streamlit
